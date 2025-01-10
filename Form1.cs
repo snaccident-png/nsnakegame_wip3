@@ -1396,6 +1396,11 @@ namespace SnakeGame_DoNotClickIgnoreAndContinue_15_September_2024
             // This code works! Happy days, Nathan. Happy days!
         }
 
+        private void backgroundFill_Click(object sender, EventArgs e)
+        {
+
+        }
+
 
 
         /* private void MoveSprite(object sender, MouseEventArgs e)
